@@ -2,7 +2,6 @@
 /apps/*/public/hot
 /apps/*/public/storage
 /apps/*/storage/*.key
-/apps/*/defaultApp/.env
 /vendor
 composer.lock
 .phpunit.result.cache
